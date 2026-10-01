@@ -1,0 +1,25 @@
+# Data
+train.csv
+test.csv
+sample_submission.csv
+source_data/
+
+# Other competitors' OOF work (not ours to publish)
+public_sources/
+*.zip
+
+# Training artifacts (regenerable)
+.*_state*/
+*.npz
+*.log
+*.err
+*.pt
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+Thumbs.db
+.DS_Store
