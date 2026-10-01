@@ -76,8 +76,3 @@ excluded for brevity.
 - Third-party OOF submissions used during stacking are deliberately **not** published here.
 - All training scripts support fold-level resume: re-running the same command after an
   interruption continues from completed folds.
-
-## Author
-
-Emirhan Oğuz — Computer Engineering student.
-LinkedIn post about this competition: (see profile)
