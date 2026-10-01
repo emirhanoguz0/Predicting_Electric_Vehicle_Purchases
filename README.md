@@ -73,6 +73,5 @@ excluded for brevity.
 
 - Competition data is **not** included — download it from the
   [competition page](https://www.kaggle.com/competitions/playground-series-s6e9).
-- Third-party OOF submissions used during stacking are deliberately **not** published here.
 - All training scripts support fold-level resume: re-running the same command after an
   interruption continues from completed folds.
